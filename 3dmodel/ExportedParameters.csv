@@ -1,0 +1,13 @@
+Name,Unit,Expression,Value,Comments,Favorite
+support_width,mm,25 mm,25.00,,false
+holder_length,mm,15 mm,15.00,,false
+holder_heigth,mm,10 mm,10.00,,false
+support_width_extra,mm,1 mm,1.00,,false
+indent_width,mm,8 mm,8.00,,false
+hall_width,mm,8 mm,8.00,,false
+hall_length,mm,25 mm,25.00,,false
+hall_depth,mm,3.6 mm,3.60,,false
+dupont_holder_width,mm,10 mm,10.00,,false
+dupont_holder_thickness,mm,1 mm,1.00,,false
+brace_thickness,mm,support_width_extra,1.00,,false
+brace_heigth,mm,2 mm,2.00,,false
